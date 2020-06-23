@@ -2,5 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Fibonacci/bin/Debug/netcoreapp3.1
+/Fibonacci/bin
 /Fibonacci/obj
+/.vs/Fibonacci
+/Pi/Pi/bin
+/Pi/Pi/obj
+/Pi/.vs
